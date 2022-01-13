@@ -1,2 +1,2 @@
-# geophysicsandlab
+# Geofísica uniandes
  
